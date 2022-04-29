@@ -1,16 +1,11 @@
 let workout =
-    { name : Text, sets : Natural}
+    \(name : Text) ->
+        \(sets : Natural) ->
+            { name = name, sets = sets }
 
-let none =
-    { name = "Nothing", sets = 0 } : workout
-
-let walk =
-    \(sets : Natural) ->
-        { name = "Walking", sets = sets } : workout
-
-let body =
-    \(sets : Natural) ->
-        { name = "Bodyweight", sets = sets } : workout
+let none = workout "Nothing" 0
+let walk = workout "Walk"
+let body = workout "Bodyweight"
 
 in  [ body 1
     , body 1
