@@ -16,5 +16,5 @@ in  [ body 1 3
     , walk 1 2
     , body 2 1
     , none 1
-    , body 2 1
+    , body 2 2
     ]
