@@ -17,4 +17,6 @@ in  [ body 1 3
     , body 2 1
     , none 1
     , body 2 2
+    , none 1
+    , body 2 1
     ]
