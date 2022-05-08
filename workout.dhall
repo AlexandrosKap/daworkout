@@ -22,4 +22,5 @@ in  [ body 1 3
     , none 1
     , body 3 1
     , walk 2
+    , body 3 1
     ]
