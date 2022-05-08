@@ -1,6 +1,7 @@
 #!/bin/env sh
 
 readme='./README.md'
+program='./program.md'
 file='./workout.dhall'
 days="./scripts/days.sh"
 
@@ -14,3 +15,5 @@ echo "Transpiled: $file"
 printf '# Daworkout\n\n' > $readme
 printf 'My workout files. Yeah.\n\n' >> $readme
 sh $days >> $readme
+echo '' >> $readme
+cat $program >> $readme
