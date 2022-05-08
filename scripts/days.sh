@@ -2,6 +2,7 @@
 
 file='./workout.csv'
 
+# Find how many days I'm working out.
 sum='0'
 for line in $(cat $file); do
     days=${line%,*,*}
