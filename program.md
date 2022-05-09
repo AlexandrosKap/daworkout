@@ -2,17 +2,37 @@
 
 ### Week
 
-- S - Workout
-- M - Workout
-- T - Walk
-- W - Workout
-- T - Workout
-- F - Walk
-- S - Walk
+- Sunday:
+  Workout
+  
+- Monday:
+  Workout
+  
+- Tuesday:
+  Walk
+  
+- Wednesday:
+  Workout
+  
+- Thursday:
+  Workout
+  
+- Friday:
+  Walk
+  
+- Saturday:
+  Walk
 
 ### Day
 
-- 06:00 - Walk for 30 minutes.
-- 06:30 - Workout with 3 sets.
-- 19:00 - Walk for 30 minutes.
-- 19:30 - Workout with 2 sets.
+- 07:00:
+   Walk for 30 minutes.
+
+- 07:30:
+  Workout with 3 sets.
+
+- 22:00:
+  Walk for 30 minutes.
+
+- 22:30:
+  Workout with 2 sets.
