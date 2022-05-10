@@ -2,43 +2,30 @@
 
 My workout files. Yeah.
 
-Working out for 22 days.
+Working out for 23 days.
 
 ## Workout Program
 
 ### Week
 
-- Sunday:
-  Workout
+- Sunday: Workout
   
-- Monday:
-  Workout
+- Monday: Workout
   
-- Tuesday:
-  Walk
+- Tuesday: Walk
   
-- Wednesday:
-  Workout
+- Wednesday: Workout
   
-- Thursday:
-  Workout
+- Thursday: Workout
   
-- Friday:
-  Walk
+- Friday: Walk
   
-- Saturday:
-  Walk
+- Saturday: Walk
 
 ### Day
 
-- 07:00:
-   Walk for 30 minutes.
+- 07:00: Walk for 30 minutes.
 
-- 07:30:
-  Workout with 3 sets.
+- 22:00: Walk for 30 minutes.
 
-- 22:00:
-  Walk for 30 minutes.
-
-- 22:30:
-  Workout with 2 sets.
+- 22:30: Workout with 3 sets.
