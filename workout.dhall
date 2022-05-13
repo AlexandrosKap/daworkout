@@ -25,5 +25,6 @@ in  [ body 1 3
     , body 3 2
     , none 1
     , body 3 1
-    , none 1
+    , walk 1
+    , body 3 1
     ]
