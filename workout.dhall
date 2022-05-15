@@ -1,8 +1,8 @@
 let workout =
     \(name : Text) ->
-        \(sets : Natural) ->
-            \(days : Natural) ->
-                { name = name, sets = sets, days = days }
+    \(sets : Natural) ->
+    \(days : Natural) ->
+        { name, sets, days }
 
 let none = workout "Nothing" 0
 let walk = workout "Walk" 1
@@ -28,4 +28,5 @@ in  [ body 1 3
     , walk 1
     , body 3 1
     , body 1 1
+    , body 3 1 -- Nice
     ]
