@@ -1,17 +1,19 @@
 #!/bin/env sh
 
+# "Compile" script
+
 readme='./README.md'
 program='./program.md'
 file='./workout.dhall'
 days="./scripts/days.sh"
 
-# Create the csv file.
+# Create the csv file
 dhall-to-csv \
     --file $file \
     --output workout.csv
 echo "Transpiled: $file"
 
-# Update the readme.
+# Update the readme
 printf '# Daworkout\n\n' > $readme
 printf 'My workout files. Yeah.\n\n' >> $readme
 sh $days >> $readme

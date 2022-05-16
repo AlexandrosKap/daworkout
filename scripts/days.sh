@@ -1,11 +1,6 @@
 #!/bin/env sh
 
+# Find how many days I'm working out
 file='./workout.csv'
-
-# Find how many days I'm working out.
-sum='0'
-for line in $(cat $file); do
-    days=${line%,*,*}
-    [ $days != 'days' ] && sum=$(expr $sum + $days)
-done
-echo "Working out for $sum days."
+n="$(cat $file | wc -l)"
+echo "Working out for $(expr $n - 1) days."
