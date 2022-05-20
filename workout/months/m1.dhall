@@ -28,6 +28,6 @@ in  [ d.bod1 ""
     , d.walk ""
     , d.bod3 ""
     , d.bod1 ""
-    , d.bod3 "Nice"
-    , d.bod1 "Eehh"
+    , d.bod3 "Nice."
+    , d.bod1 "Eehh."
     ]

@@ -18,8 +18,8 @@
 
 ### Day
 
-- 11:00: Walk for 30 minutes.
+- 06:00: Workout with 3 sets.
 
-- 13:30: Workout with 3 sets.
+- 11:00: Walk for 30 minutes.
 
 - 22:00: Walk for 30 minutes.

@@ -2,7 +2,7 @@
 
 My workout files. Yeah.
 
-Working out for 33 days.
+Working out for 34 days.
 
 ## Workout Program
 
@@ -24,8 +24,8 @@ Working out for 33 days.
 
 ### Day
 
-- 11:00: Walk for 30 minutes.
+- 06:00: Workout with 3 sets.
 
-- 13:30: Workout with 3 sets.
+- 11:00: Walk for 30 minutes.
 
 - 22:00: Walk for 30 minutes.
