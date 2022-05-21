@@ -13,12 +13,11 @@ temp='./temp.dhall'
 echo 'let Workout = ./workout/Workout.dhall' > $temp
 echo "in " >> $temp
 for month in $months/*; do
-    dhall --file $month >> $temp
-    echo '#' >> $temp
+    echo "($month)#" >> $temp
 done
 echo "([] : List Workout)" >> $temp
 dhall-to-csv --file $temp --output $output
-echo "Transpiled: $temp"
+echo "Created: $output"
 rm $temp
 
 # Update the readme
