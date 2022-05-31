@@ -1,4 +1,4 @@
-let d = ../workoutData.dhall
+let d = ../data.dhall
 
 in  [ d.bod1 ""
     , d.bod1 ""

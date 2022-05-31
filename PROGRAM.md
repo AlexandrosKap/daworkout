@@ -1,7 +1,5 @@
 ## Workout Program
 
-### Week
-
 - Sunday: Workout
   
 - Monday: Walk
@@ -15,11 +13,3 @@
 - Friday: Walk
   
 - Saturday: Workout
-
-### Day
-
-- 06:00: Workout with 3 sets.
-
-- 11:00: Walk for 30 minutes.
-
-- 22:00: Walk for 30 minutes.

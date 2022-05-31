@@ -1,4 +1,4 @@
-let newWorkout = ./newWorkout.dhall
+let newWorkout = ./Packages/Workout/newWorkout.dhall
 
 let none = newWorkout "Nothing" 0
 let walk = newWorkout "Walk" 1
